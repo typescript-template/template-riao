@@ -1,4 +1,4 @@
-# template-riao - Readme
+# {{project-name}} - Readme
 
 Here's a rundown of where to put your code, see each file for more information:
 

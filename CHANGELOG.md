@@ -1,1 +1,1 @@
-# template-riao - Changelog
+# {{project-name}} - Changelog
