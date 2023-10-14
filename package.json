@@ -21,6 +21,7 @@
 		"script": "ts-node scripts"
 	},
 	"dependencies": {
+		"@riao/dbal": "^1.1.0",
 		"ts-appconfig": "^1.2.0",
 		"ts-async-bootstrap": "^2.1.0",
 		"ts-error-handler": "^1.0.2",
@@ -28,6 +29,7 @@
 	},
 	"devDependencies": {
 		"@istanbuljs/nyc-config-typescript": "^1.0.2",
+		"@riao/cli": "^1.0.1",
 		"@types/jasmine": "^4.3.0",
 		"@types/node": "^18.11.9",
 		"@typescript-eslint/eslint-plugin": "^5.44.0",
